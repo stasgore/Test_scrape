@@ -19,5 +19,5 @@ import bs4 as BeautifulSoup
 # print(greet("Stas"))
 # r = requests.get("https://coreyms.com")
 # print(r.status_code)
-name = input('Your name?')
-print('Hello,', name)
+name = input("Your name?")
+print("Hello,", name)
